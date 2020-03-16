@@ -5,10 +5,10 @@
 
 Вконтакте https://vk.com/birdwatching_ekb,
 
-Фейсбуке https://www.facebook.com/groups/birdwatchingekb/,
+Фейсбуке https://www.facebook.com/groups/birdwatchingekb/
 
-Инстаграме https://www.instagram.com/birdwatching_ekb/,
+Инстаграме https://www.instagram.com/birdwatching_ekb/
 
 Телеграме [@birdwatching_ekb](https://t.me/birdwatching_ekb), чтобы быть в курсе самых интересных проектов!
-#Карманные определители птиц
+## Карманные определители птиц
 Благодаря [краудфандингу](https://planeta.ru/campaigns/birds_of_ekb) в начале 2020 г. нам удалось собрать средства на издание карманного буклета-определителя наиболее распространенных уральских (и не только) птиц с авторскими иллюстрациями выдающегося орнитолога профессора Вадима Константиновича Рябицева. 
