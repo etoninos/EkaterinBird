@@ -4,6 +4,13 @@
  В наших планах выпуск компактных справочников-определителей по местному биоразнообразию (не только по птицам), настенных плакатов для школ, установка информационных стендов в зеленых зонах Екатеринбурга и загородных природных парках, создание интерактивного портала для любителей птиц, обучение гидов-орнитологов. И, конечно же, орнитологические экскурсии в Екатеринбурге и окрестностях. Присоединяйтесь к нам в соцсетях:
 
 Вконтакте [vk.com/birdwatching_ekb](https://vk.com/birdwatching_ekb)
+<script type="text/javascript" src="https://vk.com/js/api/openapi.js?168"></script>
+
+<!-- VK Widget -->
+<div id="vk_allow_messages_from_community"></div>
+<script type="text/javascript">
+VK.Widgets.AllowMessagesFromCommunity("vk_allow_messages_from_community", {}, 2158488);
+</script>
 
 Фейсбуке [facebook.com/groups/birdwatchingekb](https://www.facebook.com/groups/birdwatchingekb/)
 
