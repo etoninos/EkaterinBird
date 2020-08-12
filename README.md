@@ -28,7 +28,7 @@ VK.Widgets.AllowMessagesFromCommunity("vk_allow_messages_from_community", {}, 21
  
 Благодаря [краудфандингу](https://planeta.ru/campaigns/birds_of_ekb) в 2020 г. нам удалось собрать средства на издание карманного веера-определителя наиболее распространенных уральских (и не только) птиц с авторскими иллюстрациями выдающегося орнитолога профессора Вадима Константиновича Рябицева, а также принять участие в издании его очередного полного двухтомного определителя "Птицы Европейской части России", в котором приведены подробные описания и рисунки более 530 видов птиц, зарегистрированных на территории всей Европейской России, включая Калининградскую область на западе и весь Урал на востоке, от Кавказа на юге до Земли Франца-Иосифа на севере. 
 
-Для заказа компактного веера-определителя заполните [форму](https://docs.google.com/forms/d/e/1FAIpQLSf_hJ6eiLmlaTkPGtsfDUShHwdjIBPALDEWmNPmgiJjvKLHbw/viewform?usp=sf_link).
+Для заказа компактного веера-определителя "Птицы Среднего Урала" заполните [форму](https://docs.google.com/forms/d/e/1FAIpQLSf_hJ6eiLmlaTkPGtsfDUShHwdjIBPALDEWmNPmgiJjvKLHbw/viewform?usp=sf_link).
 
 Для заказа двухтомника В.К. Рябицева "Птицы Европейской части России" заполните [форму](https://docs.google.com/forms/d/e/1FAIpQLScW9jk1ZzQoqhlJiWle05DhM99wAIimJT4mxp5ncP76OQLyPA/viewform?usp=sf_link).
 
