@@ -36,7 +36,7 @@ VK.Widgets.AllowMessagesFromCommunity("vk_allow_messages_from_community", {}, 21
 
 Рисунки, использованные в этом издании распространяются с авторской лицензией Creative Commons 
 
-[Скачать определитель в формате pdf](https://ipae.uran.ru/sites/default/files/publications/ipae/Birds_of_Urals_2020.pdf)
+[Скачать определитель в формате pdf](https://ipae.uran.ru/sites/default/files/publications/ipae/1325_2020_Ryabitsev.pdf)
 
 ![Обложка определителя](nevorob_title.png) ![Обложка определителя](vorob_title.png) 
 
