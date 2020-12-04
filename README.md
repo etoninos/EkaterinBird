@@ -42,5 +42,5 @@ VK.Widgets.AllowMessagesFromCommunity("vk_allow_messages_from_community", {}, 21
 
 ##Определитель бабочек
 В 2021 г. мы планируем продолжить издание серии вееров-определителей по уральской фауне и флоре. Открыт предзаказ на веер-определитель "Бабочки Среднего Урала" П.Ю. Горбунова.
-Для предзаказа заполните [форму] (https://docs.google.com/forms/d/e/1FAIpQLSeav_J9mhW49-W4HY9HdKGoivPjdEhc4ab5xfHlDEIE2EjmDg/viewform?usp=sf_link)
+Для предзаказа заполните [форму](https://docs.google.com/forms/d/e/1FAIpQLSeav_J9mhW49-W4HY9HdKGoivPjdEhc4ab5xfHlDEIE2EjmDg/viewform?usp=sf_link)
  
